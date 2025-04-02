@@ -1,0 +1,14 @@
+src/main/java/io/swagger/api/ApiUtil.java
+src/main/java/io/swagger/api/CustomersApi.java
+src/main/java/io/swagger/api/MenuApi.java
+src/main/java/io/swagger/api/OrdersApi.java
+src/main/java/io/swagger/api/ReservationsApi.java
+src/main/java/io/swagger/model/MenuItem.java
+src/main/java/io/swagger/model/NewCustomer.java
+src/main/java/io/swagger/model/NewOrder.java
+src/main/java/io/swagger/model/NewReservation.java
+src/main/java/io/swagger/model/Order.java
+src/main/java/io/swagger/model/OrderAllOf.java
+src/main/java/io/swagger/model/OrderStatusUpdate.java
+src/main/java/io/swagger/model/Reservation.java
+src/main/java/io/swagger/model/ReservationUpdate.java
